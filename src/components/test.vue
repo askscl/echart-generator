@@ -1,5 +1,5 @@
 <template>
-    <div class="abc">测试git2</div>
+    <div class="abc">123</div>
 </template>
 
 <script>
