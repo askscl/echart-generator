@@ -2,6 +2,7 @@
 .content{ width: 1200px; margin: 0 auto;}
 /*编辑区*/
 .edit{ width: 322px;}
+/*库表选择*/
 .choice .title h1{ font-size: 16px;}
 .choice .title .btn-back{ font-size: 16px; color: #1890FF;}
 .choice .cont{ margin-top: 10px;}
@@ -22,6 +23,8 @@
 .cont .map .list li a.active,.cont .map .list li a:hover{ background-color:#cfdadd;}
 .cont .map .open .list{display:block;}
 
+/*参数设置*/
+.set .title h1{ font-size: 16px;}
 /*预览区*/
 .show{ width: 853px; }
 </style>
@@ -64,6 +67,19 @@
                         </div>
 
                     </div>
+                </div>
+            </div>
+
+            <!--参数设置-->
+            <div class="set">
+                <div class="title">
+                    <h1>参数设置</h1>
+                </div>
+                <div class="title2">
+                    <h2>基础</h2>
+                </div>
+                <div class="set-cont">
+
                 </div>
             </div>
         </div>
